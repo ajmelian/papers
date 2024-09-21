@@ -1,4 +1,4 @@
-# SonarScanner CLI
+# SonarScanner CLI: Instalación y Configuración
 
 ## Descripción
 
